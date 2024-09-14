@@ -14,7 +14,7 @@
     <a href='https://control.bot-hosting.net/auth/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
     
 ## WATCH VIDEO ON HOW TO DEPLOY ON PANEL.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)]()
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/VnGRa3pSAx0?feature=shared)
 
 ### 3.DEPLOY ON TERMUX??👇👇
 #### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [ERROR-X☠💀☠BUG BOT] () ON ANY TERMINAL
@@ -38,7 +38,7 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/ERROR-X
+git clone https://github.com/EMMYHENZ-TECH/ERROR-X/edit/main/README.md
 ```
 ```
 cd ERROR-X
