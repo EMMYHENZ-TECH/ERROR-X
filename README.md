@@ -8,7 +8,7 @@
 
 ### 1. <a href="/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork ERROR-X" width="70"></a>
 
- ### 2. Deploy on Panel
+ ### 2. Deploy on Panel👇👇
  If you don't have an account in PANEL, create one and deploy.
     <br>
     <a href='https://control.bot-hosting.net/auth/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
@@ -16,7 +16,7 @@
 ## WATCH VIDEO ON HOW TO DEPLOY ON PANEL.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)]()
 
-### 3.
+### 3.DEPLOY ON TERMUX??👇👇
 #### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [ERROR-X☠💀☠BUG BOT] () ON ANY TERMINAL
 sudo apt -y update && sudo apt -y upgrade
 ```
@@ -83,8 +83,7 @@ yarn install
 npm start
 ```
 
-## ```Connect With Me```
-<p align="center">
-<a href="https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C">
+## ```Connect With Me```👇👇
+"https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C">
  
  ## GIVE A STAR TO MY REPO FOR COURAGE
